@@ -5,3 +5,7 @@ html, body {
 p {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+h1 {
+    color: hotpink;
+}
